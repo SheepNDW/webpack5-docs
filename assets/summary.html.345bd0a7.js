@@ -1,0 +1,1 @@
+const e={key:"v-ce2194d0",path:"/base/summary.html",title:"\u7E3D\u7D50",lang:"zh-Hant-TW",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Hank Yang",email:"86253725+SheepNDW@users.noreply.github.com",commits:1}]},filePathRelative:"base/summary.md"};export{e as data};
